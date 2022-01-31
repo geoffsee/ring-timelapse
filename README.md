@@ -9,8 +9,8 @@ Creates a timelapse from snapshots captured in between motion events on ring cam
 - ffmpeg
 
 ### Installation
-console
-```
+
+```console
 ## Install the dependencies
 yarn install
 ## Authenticate to ring and copy refreshToken into a file called .token
